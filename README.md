@@ -1,3 +1,6 @@
+## The Architecture of this simple application is explained via this diagram.
+![Web App Reference Architecture](https://user-images.githubusercontent.com/58744339/181416529-26561f07-dbdf-4f80-97d2-93df9d031ba6.png)
+
 ## Requirements
 
 | Name | Version |
