@@ -14,7 +14,6 @@
 | Name | Version |
 |------|---------|
 | aws | >= 3.20.0 |
-| random | 3.1.0 |
 
 ## Modules
 
@@ -31,7 +30,6 @@
 | [aws_eks_cluster](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/eks_cluster) |
 | [aws_eks_cluster_auth](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/eks_cluster_auth) |
 | [aws_security_group](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group) |
-| [random_string](https://registry.terraform.io/providers/hashicorp/random/3.1.0/docs/resources/string) |
 
 ## Inputs
 
